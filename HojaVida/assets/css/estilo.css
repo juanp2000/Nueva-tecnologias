@@ -1,0 +1,83 @@
+*{
+    margin:0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;}
+
+textarea{
+    background-color: lightyellow;
+}
+
+h1.nar{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+#naranja{
+    color: orange;
+}
+
+#header-contacto{
+    width: 40%;
+    float: left;
+    margin:3%;
+
+}
+
+#nav-contacto{
+    width: 40%;
+    float: left;
+    margin:3%;
+}
+#links-contacto{
+    margin: 3px 0px;
+    margin-right: 6%;
+    margin-left: 6%;
+}
+
+li.link-contacto{
+    width: 25%;
+    float: left;
+    list-style: none;
+    margin: 3px 0px;
+}
+
+.cuadros-de-texto{
+    width: 50%;
+    height: 50%;
+}
+
+div.titulos-contacto {
+    width: 42%;
+    height: 50%;
+    margin-top: 2%;
+}
+
+.titulo-contacto{
+    position: relative;
+    left: -51%;
+}
+
+.titulo-contacto-correo{
+    position: relative;
+    left: -45%;
+}
+
+.titulo-contacto-web{
+    position: relative;
+    left: -53%;
+}
+
+#boton-contacto{
+    background-color: chocolate;
+    position: relative;
+    margin-top: 2%;
+    left: -17%;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    margin-block-end: 5%;
+}
+
+
+
+

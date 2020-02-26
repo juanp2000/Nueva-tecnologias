@@ -1,0 +1,147 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{
+    list-style: none;
+}
+header {
+    float: top;
+}
+section{
+    width: 60%;
+    float: left; 
+}
+aside{
+    margin-top: 5%;
+    width: 40%;
+    float: left;
+}
+#titleName {
+    font-size: 600%; 
+    margin-left: 5%;
+    margin-top: 2%;
+    float: left;   
+}
+#color {
+    background-color: #627EFA;
+    color: white;
+}
+.ColorTextHeader {
+    color: #627EFA;
+}
+
+#subContentOfTitlteName {
+    margin-top: -9%;
+    margin-left: 33%;
+    float: left;
+}
+
+#titleOfWork {
+    width: 40%;
+    margin-top: 2%;
+    margin-left: 10%;
+    float: left;
+}
+
+#titulo_foto {
+    font-size: 135%;
+    margin-left: 30%;
+}
+
+#habilidades {
+    float: left;
+    margin-left: 9%;
+    width: 39%;
+}
+#habilidades2{
+    float: left; 
+    height: 50%;
+    margin-top: 6%;
+    margin-left: 19%;
+}
+
+#experiencia_laboral{
+    float: left;
+    width: 100%;
+    margin-left: 9%;
+    margin-top: 5%;
+}
+
+#tabla_experiencia_laboral{
+    width: 100%;
+    height: 100%;
+}
+.primera_columna_tabla{
+    width: 12%;
+    height: 40px;
+    font-size: 16px;
+}
+.segunda_columna_tabla{
+    width: 12%;   
+    font-size: 16px;
+}
+
+#estudios {  
+    float: left;
+    margin-top: 2%;
+    margin-left: 9%;
+    width: 100%;
+}
+#img-estudios{
+    float: left;
+    margin-top: 3%;
+    margin-right: 5%;
+    width: 70px;
+    height: 210px;
+}
+#lista-estudios{
+    float: left;
+    font-size: 16px;
+    margin-top: 3%;
+    width: 60%;
+}
+#div-titulos-aside{
+    float: left;
+    width: 95%;
+    height: 20%;
+    margin-top: 2%;
+    background-color: black;
+    font-size: 13px;
+}
+#idiomas{
+    width: 100%;  
+    margin-top:7%;
+    margin-left: 10%;
+    float: left;
+}
+#list-idiomas{
+    float: left;
+    width: 40%;
+}
+#formaciones-adicionales{
+    float: left;
+    width: 100%;
+}
+#list-formaciones{
+    margin-top: 10%;
+    margin-left: 10%;
+    width: 60%;
+}
+#redes-sociales{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.referencias{
+    float: left;
+    width: 60%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+
+
+
+
+
